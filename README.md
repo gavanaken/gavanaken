@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavanaken&hide=html,tex)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gavanaken&show_icons=true&hide_title=true&count_private=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavanaken&hide=html,tex&layout=compact&card_height=350&custom_title=Languages&theme=prussian)
 <!--
 **gavanaken/gavanaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
