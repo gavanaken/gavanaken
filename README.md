@@ -1,17 +1,9 @@
-### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gavanaken&show_icons=true&hide_title=true&count_private=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavanaken&hide=html,tex&layout=compact&card_height=350&custom_title=Languages&theme=prussian)
-<!--
-**gavanaken/gavanaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 I'm glad you stopped by!
+<div align="center">
+<a href="https://github.com/gavanaken">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gavanaken&show_icons=true&hide_title=true&count_private=true&theme=prussian" />
+</a>
+<a href="https://github.com/gavanaken">
+  <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gavanaken&hide=html,tex&layout=compact&card_height=350&custom_title=Languages&theme=prussian" />
+</a>
+  </div>
